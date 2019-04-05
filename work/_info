@@ -1,0 +1,49 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/siddi/vlsi/homework/homework7_2
+Echeck
+Z0 w1554425127
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/siddi/vlsi/homework/homework8
+Z4 8C:\Users\siddi\vlsi\homework\homework8\hw8_1.vhd
+Z5 FC:\Users\siddi\vlsi\homework\homework8\hw8_1.vhd
+l0
+L4
+V<I^G96K[7;f4n<N1<[_`[1
+!s100 VfJzm]HI>ag>?VF?VVl5^3
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1554425129
+!i10b 1
+Z8 !s108 1554425129.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\siddi\vlsi\homework\homework8\hw8_1.vhd|
+Z10 !s107 C:\Users\siddi\vlsi\homework\homework8\hw8_1.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Acheck_arch
+R1
+R2
+DEx4 work 5 check 0 22 <I^G96K[7;f4n<N1<[_`[1
+l12
+L9
+V]kGgZlh6z:TA9EMKjN>nK1
+!s100 ?`YYzL4F4mI@ZYWBYdD;Z1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
